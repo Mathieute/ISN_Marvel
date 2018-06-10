@@ -1,0 +1,57 @@
+body  {background-color:#7C1204;
+font-size:12pt
+}
+
+#titre { color: #F1F0DC;
+font-size: 32
+}
+
+
+
+
+
+#intro  { color: #F1F0DC;
+font-size: 20
+}
+
+td
+{
+	border : 2px #F1F0DC;
+}
+
+#Table { color: #F1F0DC;
+font-size: 18}
+table { margin: auto; } ; 
+
+<table><tr>
+<td style="color:#F1F0DC">Couleur</td>
+</tr></table>
+
+}
+
+{
+
+    border-collapse: collapse;
+
+}
+
+td,th, caption
+
+{
+
+    border: 1px solid #F1F0DC;
+    
+}
+
+img{
+display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
+}
+
+a
+{
+color: #F1F0DC;
+
+}

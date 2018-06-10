@@ -1,0 +1,36 @@
+body  {background-color:#7C1204;
+font-size:12pt
+}
+
+#titre { color: #F1F0DC;
+font-size: 32
+}
+
+img{
+display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
+}
+
+.texte-illustration {
+    overflow: hidden; /* empêche le dépassement des flottants */
+	font-size: 20
+}
+.texte-illustration .illus-gauche {
+    float: left;
+    margin: 5px 20px 5px 0;
+}
+.texte-illustration .illus-droite {
+    float: right;
+    margin: 5px 0 5px 20px;
+}
+.texte-illustration p {
+    overflow: hidden; /* Contexte de formatage. Force le paragraphe à
+    adapter sa largeur aux flottants adjacents. */
+}
+a
+{
+color: #F1F0DC;
+}
+
