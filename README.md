@@ -1,2 +1,2 @@
 # ISN_Marvel
-Projet ISN (Terminale S) : Création d'un site informatif à propos de l'Univers Cinématographique Marvel
+Pour accéder au site, téléchargez tous les fichiers/répertoires mis à dispositions, puis ouvrir Html_page_accueil.html pour lancer le site sur sa page d'accueil
